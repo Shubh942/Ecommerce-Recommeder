@@ -4,7 +4,6 @@ Flask==2.2.3
 Flask-Cors==4.0.0
 Flask-MQTT==1.1.1
 flatbuffers==23.5.9
-matplotlib==3.7.1
 moviepy==1.0.3
 mpmath==1.3.0
 multidict==6.0.4
